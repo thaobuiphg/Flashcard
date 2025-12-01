@@ -1,0 +1,1692 @@
+[
+    {
+        "unit": "UNIT 1",
+        "word": "Artificial brain implant",
+        "meaning": "Cấy ghép não nhân tạo"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Artifial intelligence",
+        "meaning": "Trí tuệ nhân tạo"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Blockchain",
+        "meaning": "Chuỗi khối"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Cloud computing",
+        "meaning": "Điện toán đám mây"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Computer built into clothing",
+        "meaning": "Quần áo thông minh"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Direct links between brain and computer",
+        "meaning": "Kết nối trực tiếp giữ não người và máy tính"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Electronic humans",
+        "meaning": "Người điện tử"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "EVA (Electronic Virtual Assistant)",
+        "meaning": "Trợ lý ảo điện tử"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Firefighting robot",
+        "meaning": "Robot cứu hỏa"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Hydraulic chair for virtual reality games",
+        "meaning": "Ghế thủy lực cho các trò chơi thực tế ảo"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Intranets dominate over Internet",
+        "meaning": "Mạng nội bộ chiếm ưu thế"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Personal wearable health monitor",
+        "meaning": "Thiết bị theo dõi sức khỏe cá nhân"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Terabit per second on optical fibres over distance",
+        "meaning": "Tốc độ Tb/s giới hạn trên cáp quang"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Game development",
+        "meaning": "Phát triển game"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Mobile application development",
+        "meaning": "Phát triển ứng dụng di động"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Robotic pets",
+        "meaning": "Thú cưng robot"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Robotic devices within blood vessels",
+        "meaning": "Thiết bị robot bơi trong mạch máu"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Radio frequency Identification",
+        "meaning": "Nhận dạng qua tần số vô tuyến"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Barcode",
+        "meaning": "Mã vạch"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Catch up with",
+        "meaning": "Bắt kịp với"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Convergence",
+        "meaning": "Sự hội tụ"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Humanoid",
+        "meaning": "Giống hệt con người"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Imagine",
+        "meaning": "Tưởng tượng"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Imitate",
+        "meaning": "Bắt chước"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Impact",
+        "meaning": "Tác động, ảnh hưởng"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Influence on",
+        "meaning": "Ảnh hưởng"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Outstrip",
+        "meaning": "Vượt xa"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Radio-frequency tag",
+        "meaning": "Thẻ nhận dạng qua tần số vô tuyến"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Revolutionize",
+        "meaning": "Cách mạng hóa"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Surveillance",
+        "meaning": "Giám sát"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "Tackle with",
+        "meaning": "Giải quyết, khắc phục, xử trí"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "redundant",
+        "meaning": "dư thừa"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "will definitely",
+        "meaning": "100%"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "will probably",
+        "meaning": "75%"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "will possibly",
+        "meaning": "50%"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "probably won't",
+        "meaning": "25%"
+    },
+    {
+        "unit": "UNIT 1",
+        "word": "definitely won't",
+        "meaning": "0%"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Accounting software",
+        "meaning": "Phần mềm kế toán"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Adobe Reader",
+        "meaning": "Phần mềm đọc file pdf"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Bioinformatics",
+        "meaning": "Tin học phân tích dữ liệu sinh học"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Corel Draw",
+        "meaning": "Phần mềm đồ họa vector"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Cost analysis",
+        "meaning": "Phân tích chi phí"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Data management",
+        "meaning": "Quản lý dữ liệu"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Desktop publishing (DTP)",
+        "meaning": "Kỹ thuật chế bản điện tử"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Desktop publishing software",
+        "meaning": "Phần mềm chế bản"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Digital assistant",
+        "meaning": "Thiết bị hỗ trợ số"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Dream Weaver",
+        "meaning": "Phần mềm xây dựng web"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Editor",
+        "meaning": "Trình biên soạn"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Enterprise software",
+        "meaning": "Phần mềm doanh nghiệp"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Graphics program",
+        "meaning": "Phần mềm đồ họa"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Household app",
+        "meaning": "Ứng dụng gia đình"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Image editing software",
+        "meaning": "Phần mềm chỉnh sửa ảnh"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Mobile apps",
+        "meaning": "Ứng dụng di động"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Office suite",
+        "meaning": "Bộ phần mềm văn phòng"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Payroll",
+        "meaning": "Bảng lương"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Primitive",
+        "meaning": "Khối hình cơ bản"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Photoshop",
+        "meaning": "Phần mềm PTS"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Rational Rose",
+        "meaning": "Phần mềm phân tích thiết kế"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Route planning software",
+        "meaning": "Phần mềm chỉ đường"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Satellite navigation",
+        "meaning": "Định vị vệ tinh"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Simulation",
+        "meaning": "Sự mô phỏng"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Spreadsheet",
+        "meaning": "Bảng tính"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Video editing software",
+        "meaning": "Phần mềm chỉnh sửa video"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Visual Studio",
+        "meaning": "Phần mềm lập trình"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Word processing software",
+        "meaning": "Bộ xử lý từ"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Be supposed to",
+        "meaning": "Giả định"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Benefit",
+        "meaning": "Được lợi"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Downsize",
+        "meaning": "Thu nhỏ"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Enhance",
+        "meaning": "Nâng cao"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Keep track of",
+        "meaning": "Theo dõi"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Optimize",
+        "meaning": "Tối ưu"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Own",
+        "meaning": "Sở hữu"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Preserve",
+        "meaning": "Bảo tồn"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Retouch",
+        "meaning": "Chỉnh sửa lại"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Simulate",
+        "meaning": "Mô phỏng"
+    },
+    {
+        "unit": "UNIT 2",
+        "word": "Invest in",
+        "meaning": "Đầu tư"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Animation",
+        "meaning": "Hoạt họa"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Background",
+        "meaning": "Nền"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Commercial website",
+        "meaning": "Trang thương mại"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Compatible with",
+        "meaning": "Tương thích"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "CSS",
+        "meaning": "Tập tin định kiểu"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Domain",
+        "meaning": "Miền"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Easy-to-use",
+        "meaning": "Dễ dùng"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Educational website",
+        "meaning": "Trang giáo dục"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Entertainment website",
+        "meaning": "Trang giải trí"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "FTP",
+        "meaning": "Giao thức truyền file"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Graphics",
+        "meaning": "Đồ họa"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "HTML",
+        "meaning": "Ngôn ngữ đánh dấu"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "HTTP",
+        "meaning": "Giao thức truyền tải"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "HTTPS",
+        "meaning": "Giao thức bảo mật"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Hyperlink",
+        "meaning": "Siêu liên kết"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Informative",
+        "meaning": "Nhiều thông tin"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Interactive",
+        "meaning": "Tương tác"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Navigation bar",
+        "meaning": "Thanh điều hướng"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "News website",
+        "meaning": "Trang tin"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Organizational website",
+        "meaning": "Trang tổ chức"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Page layout",
+        "meaning": "Bố cục trang"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Personal website",
+        "meaning": "Trang cá nhân"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Plugin",
+        "meaning": "Phần hỗ trợ"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Reliable",
+        "meaning": "Đáng tin"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Search engine",
+        "meaning": "Công cụ tìm kiếm"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Social networking website",
+        "meaning": "Mạng xã hội"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Tag",
+        "meaning": "Thẻ"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Up-to-date",
+        "meaning": "Cập nhật"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "URL address",
+        "meaning": "Đường dẫn web"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "User-friendly",
+        "meaning": "Thân thiện"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Web browser",
+        "meaning": "Trình duyệt"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Web editor",
+        "meaning": "Phần mềm lập trình web"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Web server",
+        "meaning": "Máy chủ web"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Web traffic",
+        "meaning": "Lưu lượng truy cập"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Webpage elements",
+        "meaning": "Thành phần web"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Website content",
+        "meaning": "Nội dung web"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Website specification",
+        "meaning": "Đặc tả web"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Well-designed",
+        "meaning": "Thiết kế tốt"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "Well-organized",
+        "meaning": "Tổ chức tốt"
+    },
+    {
+        "unit": "UNIT 3",
+        "word": "WWW",
+        "meaning": "Mạng toàn cầu"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "analyze",
+        "meaning": "Phân tích"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Criteria",
+        "meaning": "Tiêu chuẩn"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Data coding",
+        "meaning": "Mã hóa dữ liệu"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Data collection",
+        "meaning": "Thu thập dữ liệu"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Data decryption",
+        "meaning": "Giải mã"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Data encryption",
+        "meaning": "Mã hóa"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Data entry",
+        "meaning": "Nhập dữ liệu"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Data mining",
+        "meaning": "Khai thác dữ liệu"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Data security",
+        "meaning": "Bảo mật dữ liệu"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Data sorting",
+        "meaning": "Phân loại"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Data tabulation",
+        "meaning": "Lập bảng"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Data validation",
+        "meaning": "Hợp lệ"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Database administrator",
+        "meaning": "Quản trị CSDL"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Database management system",
+        "meaning": "Hệ QTCSDL"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Database vendor",
+        "meaning": "Nhà cung cấp CSDL"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "decrypt",
+        "meaning": "Giải mã"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "discard",
+        "meaning": "Loại bỏ"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "encrypt",
+        "meaning": "Mã hóa"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "field",
+        "meaning": "Trường"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Formula",
+        "meaning": "Công thức"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "gather",
+        "meaning": "Thu thập"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Graph",
+        "meaning": "Đồ thị"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "inconsistency",
+        "meaning": "Không nhất quán"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "index",
+        "meaning": "Chỉ số"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Query",
+        "meaning": "Truy vấn"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Raw data",
+        "meaning": "Dữ liệu thô"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Record",
+        "meaning": "Bản ghi"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "refine",
+        "meaning": "Lọc"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "scrap",
+        "meaning": "Loại bỏ"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "search",
+        "meaning": "Tìm kiếm"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "sort",
+        "meaning": "Phân loại"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Structured DBMS",
+        "meaning": "Hệ QTCSDL có cấu trúc"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "systemize",
+        "meaning": "Hệ thống hóa"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Temporal database",
+        "meaning": "CSDL tạm"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "Unstructured DBMS",
+        "meaning": "Hệ QTCSDL phi cấu trúc"
+    },
+    {
+        "unit": "UNIT 4",
+        "word": "worksheet",
+        "meaning": "Bảng tính"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "add more RAM sticks",
+        "meaning": "bổ sung RAM"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "applications run slowly",
+        "meaning": "ứng dụng chạy chậm"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "applications won't install",
+        "meaning": "ứng dụng không cài được"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "computer suddenly restarts",
+        "meaning": "máy tự khởi động"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "connection error",
+        "meaning": "lỗi kết nối"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "check memory",
+        "meaning": "kiểm tra bộ nhớ"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "detect",
+        "meaning": "phát hiện"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "diagnose",
+        "meaning": "chẩn đoán"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "diagnosis",
+        "meaning": "sự chẩn đoán"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "error code",
+        "meaning": "mã lỗi"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "error message",
+        "meaning": "thông báo lỗi"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "escalate",
+        "meaning": "chuyển lên"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "escalation",
+        "meaning": "sự chuyển lên"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "hang",
+        "meaning": "treo"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "hard drive failure",
+        "meaning": "lỗi ổ cứng"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "incident management",
+        "meaning": "quản trị sự cố"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "incident report",
+        "meaning": "báo cáo sự cố"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "indicate",
+        "meaning": "chỉ ra"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "indication",
+        "meaning": "dấu hiệu"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "investigate",
+        "meaning": "điều tra"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "investigation",
+        "meaning": "sự điều tra"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "logic error",
+        "meaning": "lỗi logic"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "minimum system requirement",
+        "meaning": "yêu cầu tối thiểu"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "missing DLL files",
+        "meaning": "thiếu DLL"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "open task manager",
+        "meaning": "mở task manager"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "peripherals stop working",
+        "meaning": "ngoại vi hỏng"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "reinstall drivers",
+        "meaning": "cài lại driver"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "resolve",
+        "meaning": "giải quyết"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "run diagnostic tools",
+        "meaning": "chạy công cụ chẩn đoán"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "run system file checker",
+        "meaning": "chạy kiểm tra file hệ thống"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "shut down unnecessary processes",
+        "meaning": "đóng quy trình thừa"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "support ticket",
+        "meaning": "phiếu hỗ trợ"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "syntax error",
+        "meaning": "lỗi cú pháp"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "system error",
+        "meaning": "lỗi hệ thống"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "tier",
+        "meaning": "tầng hỗ trợ"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "troubleshoot",
+        "meaning": "khắc phục"
+    },
+    {
+        "unit": "UNIT 5",
+        "word": "unusual noise",
+        "meaning": "âm thanh lạ"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "agenda",
+        "meaning": "lịch họp"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "attendee",
+        "meaning": "người tham dự"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "audience",
+        "meaning": "khán giả"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "audio input",
+        "meaning": "đầu vào âm thanh"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "bandwidth",
+        "meaning": "băng thông"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "body language",
+        "meaning": "ngôn ngữ cơ thể"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "brochure",
+        "meaning": "tập quảng cáo"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "budget",
+        "meaning": "ngân sách"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "chat room",
+        "meaning": "phòng chat"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "codec",
+        "meaning": "bộ mã hóa"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "collaboration",
+        "meaning": "cộng tác"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "concept",
+        "meaning": "khái niệm"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "dedicated system",
+        "meaning": "hệ thống chuyên dụng"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "dedicated video conferencing system",
+        "meaning": "hệ thống hội thảo chuyên dụng"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "diagram",
+        "meaning": "sơ đồ"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "echo cancellation",
+        "meaning": "khử tiếng vọng"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "eye-contact",
+        "meaning": "giao tiếp mắt"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "handouts",
+        "meaning": "tài liệu phát"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "high-definition monitor",
+        "meaning": "màn hình HD"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "illustrative detail",
+        "meaning": "chi tiết minh họa"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "line of argument",
+        "meaning": "dòng lập luận"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "multipoint",
+        "meaning": "đa điểm"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "multipoint control unit",
+        "meaning": "bộ MCU"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "note card",
+        "meaning": "thẻ ghi chú"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "outline",
+        "meaning": "dàn ý"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "output service",
+        "meaning": "dịch vụ đầu ra"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "project",
+        "meaning": "dự án"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "section",
+        "meaning": "phần"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "signpost",
+        "meaning": "chỉ dẫn"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "video conferencing",
+        "meaning": "hội nghị truyền hình"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "video conferencing systems",
+        "meaning": "hệ thống hội nghị"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "video input",
+        "meaning": "đầu vào video"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "video bridge",
+        "meaning": "cầu truyền hình"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "visual aid",
+        "meaning": "giáo cụ trực quan"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "review",
+        "meaning": "đánh giá"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "summarize",
+        "meaning": "tóm tắt"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "demonstrate",
+        "meaning": "biểu thị"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "illustrate",
+        "meaning": "minh họa"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "focus",
+        "meaning": "tập trung"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "stay comfortable and relaxed",
+        "meaning": "thoải mái"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "stand up straight",
+        "meaning": "đứng thẳng"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "project",
+        "meaning": "phóng to giọng"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "affordable",
+        "meaning": "phải chăng"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "smooth",
+        "meaning": "mượt"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "superior",
+        "meaning": "vượt trội"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "powerful",
+        "meaning": "mạnh"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "glad",
+        "meaning": "vui"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "productive",
+        "meaning": "năng suất"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "top-notch",
+        "meaning": "đỉnh"
+    },
+    {
+        "unit": "UNIT 6",
+        "word": "interactive",
+        "meaning": "tương tác"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "backup",
+        "meaning": "sao lưu"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "caution",
+        "meaning": "cảnh báo"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "guideline",
+        "meaning": "hướng dẫn"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "hard drive partition",
+        "meaning": "phân vùng ổ cứng"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "introduction",
+        "meaning": "giới thiệu"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "instruction",
+        "meaning": "chỉ dẫn"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "internal",
+        "meaning": "bên trong"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "note",
+        "meaning": "lưu ý"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "tip",
+        "meaning": "lời khuyên"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "warning",
+        "meaning": "cảnh cáo"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "attempt",
+        "meaning": "nỗ lực"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "back-up",
+        "meaning": "sao lưu"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "block",
+        "meaning": "khóa"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "click",
+        "meaning": "ấn"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "connect",
+        "meaning": "kết nối"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "damage",
+        "meaning": "làm hỏng"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "double click",
+        "meaning": "nhấn đúp"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "download",
+        "meaning": "tải về"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "export",
+        "meaning": "xuất"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "format",
+        "meaning": "định dạng"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "import",
+        "meaning": "nhập"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "insert",
+        "meaning": "chèn"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "install",
+        "meaning": "cài đặt"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "log in",
+        "meaning": "đăng nhập"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "log out",
+        "meaning": "đăng xuất"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "overheat",
+        "meaning": "quá nóng"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "push",
+        "meaning": "đẩy"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "reboot",
+        "meaning": "khởi động lại"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "reformat",
+        "meaning": "định dạng lại"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "restore",
+        "meaning": "khôi phục"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "select",
+        "meaning": "chọn"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "set",
+        "meaning": "đặt"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "slide",
+        "meaning": "trượt"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "stack",
+        "meaning": "chồng"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "transfer",
+        "meaning": "chuyển"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "troubleshoot",
+        "meaning": "khắc phục"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "unplug",
+        "meaning": "rút"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "upload",
+        "meaning": "tải lên"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "dismantling",
+        "meaning": "tháo dỡ"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "jeopardise",
+        "meaning": "gây nguy hiểm"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "retrieve",
+        "meaning": "lấy lại"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "handset",
+        "meaning": "điện thoại cầm tay"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "prolonged",
+        "meaning": "kéo dài"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "plunge",
+        "meaning": "lao xuống"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "resist",
+        "meaning": "kháng cự"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "urge",
+        "meaning": "thúc giục"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "circuit",
+        "meaning": "mạch điện"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "synchronize",
+        "meaning": "đồng bộ"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "partition",
+        "meaning": "phân vùng"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "enforce",
+        "meaning": "thực thi"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "proper",
+        "meaning": "thích hợp"
+    },
+    {
+        "unit": "UNIT 7",
+        "word": "conduct",
+        "meaning": "chỉ đạo"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "attach",
+        "meaning": "đính kèm"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "attachment",
+        "meaning": "tập tin đính kèm"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "BCC",
+        "meaning": "Sao mù"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "CC",
+        "meaning": "Sao chép"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "formal",
+        "meaning": "trang trọng"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "informal",
+        "meaning": "thân mật"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "look forward to",
+        "meaning": "mong chờ"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "recipient",
+        "meaning": "người nhận"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "sender",
+        "meaning": "người gửi"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "signature",
+        "meaning": "chữ ký"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "subject",
+        "meaning": "tiêu đề"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "yours sincerely",
+        "meaning": "trân trọng"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "yours faithfully",
+        "meaning": "trân trọng"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "accept",
+        "meaning": "chấp nhận"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "acceptable",
+        "meaning": "chấp nhận được"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "apologize for",
+        "meaning": "xin lỗi"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "appreciate",
+        "meaning": "đánh giá cao"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "be annoyed at",
+        "meaning": "tức giận"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "be dissatisfied with",
+        "meaning": "bất mãn"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "be upset about",
+        "meaning": "thất vọng"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "blurry",
+        "meaning": "mờ"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "business Internet plan",
+        "meaning": "gói mạng doanh nghiệp"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "consideration",
+        "meaning": "cân nhắc"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "deal with",
+        "meaning": "xử lý"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "enclose with",
+        "meaning": "đính kèm"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "hesitate",
+        "meaning": "do dự"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "home Internet plan",
+        "meaning": "gói mạng gia đình"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "keep in mind",
+        "meaning": "ghi nhớ"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "make a complaint",
+        "meaning": "khiếu nại"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "make a proposal",
+        "meaning": "đề xuất"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "make a request",
+        "meaning": "yêu cầu"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "PON light",
+        "meaning": "đèn PON"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "receipt",
+        "meaning": "biên lai"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "reference",
+        "meaning": "tham khảo"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "refund",
+        "meaning": "hoàn tiền"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "replacement",
+        "meaning": "thay thế"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "return",
+        "meaning": "trả lại"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "scratch",
+        "meaning": "làm xước"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "warranty",
+        "meaning": "bảo hành"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "WAN light",
+        "meaning": "đèn WAN"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "rescind",
+        "meaning": "hủy"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "proceed",
+        "meaning": "tiếp tục"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "guarantee",
+        "meaning": "bảo đảm"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "inspect",
+        "meaning": "kiểm tra"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "irreparable",
+        "meaning": "không sửa được"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "promptly",
+        "meaning": "kịp thời"
+    },
+    {
+        "unit": "UNIT 8",
+        "word": "malfunctioning",
+        "meaning": "trục trặc"
+    }
+]

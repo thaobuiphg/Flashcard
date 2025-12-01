@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Flashcards</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background: #f7f7f7;
+      margin: 0;
+    }
+
+    .flashcard {
+      width: 400px;
+      height: 250px;
+      perspective: 1000px;
+      margin-bottom: 20px;
+    }
+
+    .flashcard-inner {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      text-align: center;
+      transition: transform 0.6s;
+      transform-style: preserve-3d;
+      cursor: pointer;
+    }
+
+    .flashcard.flipped .flashcard-inner {
+      transform: rotateY(180deg);
+    }
+
+    .flashcard-front,
+    .flashcard-back {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      backface-visibility: hidden;
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    .flashcard-front {
+      background: #ffffff;
+      border: 2px solid #ddd;
+      font-size: 28px;
+      font-weight: bold;
+      color: #333;
+    }
+
+    .flashcard-back {
+      background: #ffd0db; /* hồng */
+      color: rgb(0, 0, 0);
+      transform: rotateY(180deg);
+      flex-direction: column;
+      text-align: left;
+    }
+
+    .flashcard-back .meaning {
+      font-size: 20px;
+      margin-bottom: 15px;
+      text-align: center; /* căn giữa meaning */
+      width: 100%;
+      font-weight: bold;
+    }
+
+    .flashcard-back .example {
+      font-size: 16px;
+      color: #000000;
+      text-align: left;
+    }
+
+    .flashcard-back .example b {
+      color: #ff0000;
+      font-weight: bold;
+    }
+
+    .controls {
+      display: flex;
+      gap: 10px;
+    }
+
+    button {
+      padding: 8px 16px;
+      border: none;
+      border-radius: 6px;
+      background: #ffd0db;
+      color: rgb(0, 0, 0);
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: bold;
+    }
+
+    button:hover {
+      background: #ffd0db;
+    }
+
+    #word-list {
+      margin-top: 20px;
+      display: none;
+      max-height: 200px;
+      overflow-y: auto;
+      border: 1px solid #ccc;
+      background: #fff;
+      padding: 10px;
+      border-radius: 6px;
+      width: 300px;
+    }
+
+    #word-list ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    #word-list li {
+      padding: 5px 0;
+      cursor: pointer;
+      border-bottom: 1px solid #eee;
+    }
+
+    #word-list li:hover {
+      background: #f0f0f0;
+    }
+  </style>
+</head>
+<body>
+  <div class="flashcard" id="flashcard">
+    <div class="flashcard-inner">
+      <div class="flashcard-front" id="card-front">Word</div>
+      <div class="flashcard-back">
+        <div class="meaning" id="card-meaning">Meaning</div>
+        <!-- <div class="example" id="card-example">Example</div> -->
+      </div>
+    </div>
+  </div>
+
+  <div class="controls">
+    <button onclick="prevCard()">⟵ Prev</button>
+    <button onclick="nextCard()">Next ⟶</button>
+    <button onclick="randomCard()">Random 🎲</button>
+    <button onclick="toggleList()">📖 List</button>
+  </div>
+
+  <div id="word-list"><ul id="words"></ul></div>
+
+  <script>
+    let currentIndex = 0;
+    let flashcard = document.getElementById("flashcard");
+
+    flashcard.addEventListener("click", () => {
+      flashcard.classList.toggle("flipped");
+    });
+
+    let cards = []; 
+
+    async function loadCards() {
+      const response = await fetch("all_units_words.json");
+      cards = await response.json();
+      renderCard();
+      renderList();
+    }
+
+    function renderCard() {
+      let card = cards[currentIndex];
+      document.getElementById("card-front").innerText = card.word;
+      document.getElementById("card-meaning").innerText = card.meaning;
+      //document.getElementById("card-example").innerHTML = card.example.replace(
+      //  new RegExp(card.word, "gi"),
+      //  `<b>${card.word}</b>`
+      //);
+    }
+
+    function prevCard() {
+      currentIndex = (currentIndex - 1 + cards.length) % cards.length;
+      renderCard();
+      flashcard.classList.remove("flipped");
+    }
+
+    function nextCard() {
+      currentIndex = (currentIndex + 1) % cards.length;
+      renderCard();
+      flashcard.classList.remove("flipped");
+    }
+
+    function randomCard() {
+      currentIndex = Math.floor(Math.random() * cards.length);
+      renderCard();
+      flashcard.classList.remove("flipped");
+    }
+
+    function renderList() {
+      let list = document.getElementById("words");
+      list.innerHTML = "";
+      cards.forEach((c, i) => {
+        let li = document.createElement("li");
+        li.innerText = c.word;
+        li.onclick = () => {
+          currentIndex = i;
+          renderCard();
+          flashcard.classList.remove("flipped");
+          toggleList();
+        };
+        list.appendChild(li);
+      });
+    }
+
+    function toggleList() {
+      let listDiv = document.getElementById("word-list");
+      listDiv.style.display =
+        listDiv.style.display === "none" ? "block" : "none";
+    }
+
+    loadCards();
+  </script>
+</body>
+</html>
